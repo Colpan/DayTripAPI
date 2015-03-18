@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+SanDiego:
+  region: San Diego
+  country: US
+  state: CA
+
+SanFrancisco:
+  region: San Francisco
+  country: US
+  state: CA
