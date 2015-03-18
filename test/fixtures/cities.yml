@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+SanDiego:
+  name: San Diego
+  state: CA 
+  region: SanDiego
+  country: US
+
+Carlsbad:
+  name: San Diego
+  state: CA 
+  region: SanDiego
+  country: US

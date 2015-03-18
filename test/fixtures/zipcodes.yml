@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zipcode: 92124
+  city: SanDiego
+  state: CA 
+  region: SanDiego
+  country: US
+
+two:
+  zipcode: 92111
+  city: SanDiego
+  state: CA
+  region: SanDiego
+  country: US 

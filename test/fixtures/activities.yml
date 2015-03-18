@@ -1,0 +1,26 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+Hike:
+  name: Hike in Tierrasanta
+  category: Hikes
+  price: 1
+  clicks: 1
+  description: Just a walk.
+  rating: 1
+  zipcode: one
+  city: SanDiego
+  state: CA
+  region: SanDiego
+  country: US 
+
+Restaurant:
+  name: Santo Sushi
+  category: Food
+  price: 1
+  clicks: 1
+  rating: 1
+  zipcode: one
+  city: SanDiego
+  state: CA
+  region: SanDiego
+  country: US 
